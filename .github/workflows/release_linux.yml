@@ -3,7 +3,7 @@ name: 'C++ CI'
 on:
   push:
     branches:
-      - mastr
+      - master
       - feature/github_actions
 
 jobs:
